@@ -29,7 +29,7 @@ vue开发者参考，也算是为国产做宣传了吧。
 
 ~~~
 git clone https://github.com/CodesPlex/YupiOS.git
-cd GoodManWEN.github.io.git
+cd YupiOS
 npm install
 npm run serve
 ~~~
