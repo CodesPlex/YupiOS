@@ -28,8 +28,8 @@ vue开发者参考，也算是为国产做宣传了吧。
 本项目在设计上是由Github Pages提供服务的，所有api都会被转化为静态文件分发。如果你想要在本地运行和调试的话，请尝试以下步骤:
 
 ~~~
-git clone https://github.com/GoodManWEN/GoodManWEN.github.io.git
-cd GoodManWEN.github.io.git
+git clone https://github.com/CodesPlex/YupiOS.git
+cd YupiOS
 npm install
 npm run serve
 ~~~
